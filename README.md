@@ -60,6 +60,3 @@ If you face any problem or have any suggestion on improving the code then feel f
 
 ### Website Design & Developed by
 [Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
-### License
-This project is licensed under the [MIT License](LICENSE)
