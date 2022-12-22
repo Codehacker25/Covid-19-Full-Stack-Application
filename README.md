@@ -56,7 +56,5 @@ If you face any problem or have any suggestion on improving the code then feel f
 ### Blog & Youtube explanation
 [https://hackbotone.com/blog/covid-19-full-stack-application](https://hackbotone.com/blog/covid-19-full-stack-application)
 
-[https://www.youtube.com/watch?v=dth5jfLDuus](https://www.youtube.com/watch?v=dth5jfLDuus)
-
 ### Website Design & Developed by
 [Aditya Ranjan](https://www.linkedin.com/in/aditya-ranjan-014bb2a2/)
